@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# CMake build tree
+build/
+
+# Datasets and exported checkpoints (the README shows how to get both)
+data/
+artifacts/
+
+# macOS
+.DS_Store
